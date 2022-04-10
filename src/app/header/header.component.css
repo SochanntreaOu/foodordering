@@ -1,15 +1,15 @@
 header{
     background: white;
     padding: 0;
-    border-bottom: 1px solid #e72929;
+    border-bottom: 1px solid #3629e7;
 }
 
 a{
-    color:#af1313
+    color:#09053f;
 }
 
 a:hover{
-    background: #e72929;
+    background: #3629e7;
     color: white;
 }
 
